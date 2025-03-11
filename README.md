@@ -8,4 +8,6 @@ or use it.
 
 I am a CS Freshman at Tula's Institute, Uttarakhand Technical University. I love working with Web Development and Machine Learning. Coming from the software and engineering background, I contribute extensively to developing web applications utilizing AI/ML.
 
+Current at, @tryvinci as Software Engineer Intern building a video creation platform through CV and GANs.
+
 [![Chetan github stats](https://github-readme-stats.vercel.app/api?username=negimox&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/negimox)
